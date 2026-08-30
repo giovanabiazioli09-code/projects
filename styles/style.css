@@ -221,8 +221,8 @@ body{
     }
 
     .apresentacao__imagem{
-        width: 90%;
-        
+        width: auto;
+        box-sizing: border-box;
     }
 
 }

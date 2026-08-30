@@ -191,9 +191,6 @@ body{
 
 @media (max-width: 1200px) {
 
-    *{
-        padding: 5% 15%
-    }
     
     .cabecalho{ 
         padding: 10%;
@@ -225,6 +222,7 @@ body{
 
     .apresentacao__imagem{
         width: auto;
+        padding: 5%;
     }
 
 }

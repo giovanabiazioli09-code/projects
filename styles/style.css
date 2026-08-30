@@ -203,7 +203,7 @@ body{
     .apresentacao{
         flex-direction: column-reverse;
         padding: 5%;
-        justify-content: center;
+
     }
 
     .apresentacao__conteudo{
@@ -213,7 +213,7 @@ body{
     .conteudo{
         flex-direction: column-reverse;
         padding: 5%;
-        justify-content: center;
+
     }
 
     .conteudo__apresentacao{

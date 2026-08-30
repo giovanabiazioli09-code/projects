@@ -191,6 +191,9 @@ body{
 
 @media (max-width: 1200px) {
 
+    *{
+        margin: 2%
+    }
     
     .cabecalho{ 
         padding: 10%;
@@ -222,7 +225,6 @@ body{
 
     .apresentacao__imagem{
         width: auto;
-        box-sizing: border-box;
     }
 
 }
